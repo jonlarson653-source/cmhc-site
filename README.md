@@ -16,3 +16,4 @@ deployed to Vercel at https://www.compassmobilehealthcare.com/.
 
 This repo is connected to the `cmhc-site` project in Vercel.
 Pushing to this repo automatically redeploys the production site.
+Connected 2026-11-12; production branch is `main`.
