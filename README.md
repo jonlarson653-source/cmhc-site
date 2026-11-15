@@ -6,7 +6,7 @@ deployed to Vercel at https://www.compassmobilehealthcare.com/.
 ## Files
 
 - `index.html` — the homepage
-- `services.html` — "How We Engage" page: the MIH Demand-Side Assessment ($9,950 fixed fee, 3 weeks)
+- `services.html` — "How We Engage" page: the MIH Demand-Side Assessment (from $9,950, 3 weeks for a standard assessment; larger systems priced to scope)
 - `styles.css` — shared stylesheet for both pages
 - `cmhc-logo.png` — CMHC compass emblem
 - `robots.txt` — allows all crawling, points to the sitemap
